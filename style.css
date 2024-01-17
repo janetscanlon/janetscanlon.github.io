@@ -4,29 +4,36 @@ body {
   font-family: Buda, Times, sans-sarif;
   margin: 10% 20%
 }
+
+.img{
+  width:350px
+ 
+}
+
 .name{
   text-align:center;
 }
+
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+}
+
+.campiello-close{
+  font-style: italic;
 }
 
 .edu-header{
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+ 
 }
 
 .about-me{
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
+}
+
+.links{
+  font-weight: bold;
 }
